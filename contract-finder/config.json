@@ -1,0 +1,11 @@
+{
+  "queries": [
+    "\"DevOps\" \"part time\" \"outside IR35\" remote contract UK",
+    "\"platform engineer\" \"part-time\" \"outside IR35\" remote",
+    "\"Azure\" \"DevOps\" \"2 days per week\" \"outside IR35\" remote",
+    "\"AWS\" \"fractional\" \"outside IR35\" remote contract",
+    "\"site reliability\" \"part-time\" \"outside IR35\" remote",
+    "\"DevOps\" \"weekend\" \"outside IR35\" remote"
+  ],
+  "max_results_per_section": 20
+}

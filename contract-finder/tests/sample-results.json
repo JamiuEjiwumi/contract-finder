@@ -1,0 +1,5 @@
+[
+ {"title":"Example DevOps contract (test fixture)","url":"https://example.com/job/1","description":"Remote part-time contract, 2 days per week, outside IR35."},
+ {"title":"Example platform engineer (test fixture)","url":"https://example.com/job/2","description":"Part-time remote contract; IR35 status not stated."},
+ {"title":"Example DevOps full-time role (test fixture)","url":"https://example.com/job/3","description":"Full-time remote outside IR35."}
+]
